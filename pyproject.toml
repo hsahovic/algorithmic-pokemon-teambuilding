@@ -1,0 +1,21 @@
+[project]
+name = "teambuilding"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "jupyterlab>=4.4.1",
+    "matplotlib>=3.10.1",
+    "nashpy>=0.0.41",
+    "nbconvert>=7.16.6",
+    "numpy>=2.2.5",
+    "orjson>=3.11.1",
+    "pettingzoo>=1.25.0",
+    "poke-env>=0.10.0",
+    "polars>=1.29.0",
+    "scikit-learn>=1.6.1",
+    "seaborn>=0.13.2",
+    "tqdm>=4.67.1",
+    "websockets>=15.0.1",
+]
